@@ -278,7 +278,7 @@ sidebar:
 # 资料配置
 profile:
     # 头像配置 (相对于 /public 目录)
-    avatar: "/assets/images/avatar.jpg"
+    avatar: "/assets/images/Dr.YMD.png"
     # 信息配置
     name: "Dr.YMD"
     # 简介配置
@@ -402,7 +402,7 @@ musicPlayer:
         # 类型 ("playlist" 歌单 | "song" 单曲)
         type: "playlist"
         # 资源 ID
-        id: "2161912966"
+        id: "17950823097"
     # local 模式专属配置
     local:
         # 播放列表
