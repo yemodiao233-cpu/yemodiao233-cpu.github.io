@@ -1,0 +1,27 @@
+{
+    "title": "Blossom Field but Tomb - 过去的花海，现在的坟墓",
+    "description": "“她与她遥不可及的理想与记忆均葬于这象征遗忘的墓群中……”",
+    "cover": "./Blossom.jpg",
+    "date": "2025-09-25T00:00:00.000Z",
+    "location": "Unknown",
+    "tags": ["Dr.Hang","艺术图"],
+    "layout": "masonry",
+    "columns": 3,
+    "photos": [
+        {
+            "src": "./Blossom.jpg",
+            "alt": "花田与墓群",
+            "title": "花田 by Dr.YMD",
+            "description": "“是的，我见过这里种满花的样子……”",
+            "tags": ["nature"]
+        },
+        {
+            "src": "./Reality.jpg",
+            "alt": "RealityWorld",
+            "title": "花田 by Dr.YMD",
+            "description": "“是的，我见过这里种满花的样子……”",
+            "tags": ["nature"]
+        }
+    ],
+    "visible": true
+}
